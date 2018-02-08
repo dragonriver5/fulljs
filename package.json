@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dragonriver5/fulljs.git"
+    "url": "git+git@github.com:dragonriver5/fulljs.git"
   },
   "author": "jhwnkim",
   "license": "ISC",
